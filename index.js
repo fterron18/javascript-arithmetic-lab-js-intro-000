@@ -3,5 +3,7 @@ function add() {
 }
 
 function add(a, b){
-  1 + 1148
+  if(a = b){
+    return number
+  }
 }
