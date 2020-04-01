@@ -3,5 +3,5 @@ function add() {
 }
 
 function add(a, b) {
-  number += 2
+return  number += 2
 }
