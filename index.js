@@ -2,6 +2,6 @@ function add() {
    number += 5
 }
 
-function add(a, b) {
-number += 2
+function(a, b) {
+    return function(a) { return a + b; };
 }
